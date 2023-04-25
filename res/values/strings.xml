@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="age">age</string>
+    <string name="address">adress</string>
+    <string name="sign_up">sign up</string>
+    <string name="login">Login</string>
+    <string name="family_name">last name</string>
+    <string name="first_name">first name</string>
+    <string name="hello_wrld">Hello wrld!</string>
+    <string name="already_have_an_account">Already Have An Account</string>
+    <string name="get_started">Get Started</string>
+    <string name="verify_your_Internet">verify</string>
+</resources>

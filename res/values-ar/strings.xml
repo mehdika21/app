@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="email">email</string>
+    <string name="password">كلمة المرور </string>
+    <string name="age"> العمر </string>
+    <string name="address"> عنوان </string>
+    <string name="login"> تسجيل الدخول </string>
+    <string name="sign_up"> انشاء حساب  </string>
+    <string name="first_name"> الاسم </string>
+    <string name="family_name"> اللقب </string>
+    <string name="hello_wrld">مرحبا بالعالم </string>
+    <string name="already_have_an_account">لدي حساب</string>
+    <string name="get_started">ابدا</string>
+</resources>
